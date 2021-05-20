@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[The Current world population is:7867018164]]>
+    </line>
+  </reporter-output>
+  <suite name="WorldoMeters Test Automation Test Suite" duration-ms="25707" started-at="2021-05-20T14:03:21Z" finished-at="2021-05-20T14:03:47Z">
+    <groups>
+    </groups>
+    <test name="WorldoMeter App Test Cases" duration-ms="25707" started-at="2021-05-20T14:03:21Z" finished-at="2021-05-20T14:03:47Z">
+      <class name="tests.SanityTest">
+        <test-method status="PASS" signature="setUpSanityTest()[pri:0, instance:tests.SanityTest@5622fdf]" name="setUpSanityTest" is-config="true" duration-ms="6637" started-at="2021-05-20T14:03:21Z" finished-at="2021-05-20T14:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSanityTest -->
+        <test-method status="PASS" signature="getCurrentWorldPopulation()[pri:0, instance:tests.SanityTest@5622fdf]" name="getCurrentWorldPopulation" duration-ms="5964" started-at="2021-05-20T14:03:28Z" finished-at="2021-05-20T14:03:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The Current world population is:7867018164]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getCurrentWorldPopulation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.SanityTest@5622fdf]" name="tearDown" is-config="true" duration-ms="682" started-at="2021-05-20T14:03:34Z" finished-at="2021-05-20T14:03:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpSanityTest()[pri:0, instance:tests.SanityTest@5622fdf]" name="setUpSanityTest" is-config="true" duration-ms="8253" started-at="2021-05-20T14:03:34Z" finished-at="2021-05-20T14:03:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSanityTest -->
+        <test-method status="PASS" signature="launchCheck()[pri:0, instance:tests.SanityTest@5622fdf]" name="launchCheck" duration-ms="3469" started-at="2021-05-20T14:03:43Z" finished-at="2021-05-20T14:03:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchCheck -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.SanityTest@5622fdf]" name="tearDown" is-config="true" duration-ms="685" started-at="2021-05-20T14:03:46Z" finished-at="2021-05-20T14:03:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SanityTest -->
+    </test> <!-- WorldoMeter App Test Cases -->
+  </suite> <!-- WorldoMeters Test Automation Test Suite -->
+</testng-results>
